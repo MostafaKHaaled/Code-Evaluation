@@ -38,7 +38,7 @@ st.markdown(
 """,
 unsafe_allow_html=True)
 
-palm_APIKEY = "AIzaSyDb8c6w4yXYwGD098I_vZyC_3gdPqR_YJg"
+palm_APIKEY = "API KAY"
 llm = GooglePalm(google_api_key=palm_APIKEY,temperature=0.8)
 discretion_text = st.text_area("",height=225)
 
