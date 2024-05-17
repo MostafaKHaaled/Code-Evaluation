@@ -1,5 +1,3 @@
-#!pip install openai
-# pip install langchain
 import streamlit as st
 import time
 import sys
